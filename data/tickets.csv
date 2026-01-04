@@ -1,0 +1,16 @@
+text,category,priority
+Server not responding after update,IT,1
+VPN connection drops frequently,IT,2
+Unable to access internal portal,IT,2
+Laptop overheating issue,IT,3
+Email not syncing on mobile,IT,3
+Salary credited late this month,HR,1
+Tax deduction incorrect in payslip,HR,1
+Need leave approval for next week,HR,3
+Update personal details in HR system,HR,3
+Medical insurance details required,HR,2
+Invoice amount mismatch,Finance,2
+Payment pending for vendor,Finance,1
+Budget approval required,Finance,3
+Expense reimbursement delayed,Finance,2
+GST calculation error in invoice,Finance,1
